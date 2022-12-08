@@ -1,0 +1,23 @@
+assets/
+run/
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Maven
+log/
+target/
+
+# Gradle
+.gradle/
+gradle/
+build/
+gradlew
+gradlew.bat

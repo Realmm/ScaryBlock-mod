@@ -1,0 +1,26 @@
+{
+  "jumpscare": {
+    "category": "master",
+    "replace": false,
+    "subtitle": "scaryblock.jumpscare",
+    "sounds": [
+      "scaryblock:jumpscare"
+    ]
+  },
+  "alarm": {
+    "category": "master",
+    "replace": false,
+    "subtitle": "scaryblock.alarm",
+    "sounds": [
+      "scaryblock:alarm"
+    ]
+  },
+  "double_jump": {
+    "category": "master",
+    "replace": false,
+    "subtitle": "scaryblock.double_jump",
+    "sounds": [
+      "scaryblock:double_jump"
+    ]
+  }
+}

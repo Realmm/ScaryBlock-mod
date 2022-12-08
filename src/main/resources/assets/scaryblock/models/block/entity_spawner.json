@@ -1,0 +1,55 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "textures": {
+    "particle": "scaryblock:machines/entity_spawner"
+  },
+  "texture_size": [
+    768,
+    1536
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        -8.25,
+        0
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        -7.5,
+        0
+      ]
+    }
+  }
+}
